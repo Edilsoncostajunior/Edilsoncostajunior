@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 😁 About Me:
 Olá! Eu me chamo Edilson Costa e sou estudante da Universidade Estadual da Paraíba.<br>
 
 
