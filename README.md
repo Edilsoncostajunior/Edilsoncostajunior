@@ -25,7 +25,7 @@ Olá! Eu me chamo Edilson Costa e sou estudante da Universidade Estadual da Para
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+[![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Edilsoncostajunior&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)<img src="https://cdn.discordapp.com/attachments/880603724903493632/1064379275605708911/13114a8c-5ee3-41e5-94f0-7568dd9a4f27.jpg" height="200px" align="right"><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Edilsoncostajunior&theme=algolia&hide_border=false)<br/>
